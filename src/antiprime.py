@@ -19,7 +19,7 @@ def main(x) :
 		k = 0
 		while d <= x :
 			if (x % d == 0) :
-				k = k + 2
+				k = k + 1
 
 			d = d + 1
 
