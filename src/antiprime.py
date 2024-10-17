@@ -17,9 +17,9 @@ def main(x) :
 	while x >= 1 and k < n :
 		d = 1
 		k = 0
-		while d <= x 
+        while d <= x :
 			if (x % d == 0) :
-				k = k + 1
+				k = k + 2
 
 			d = d + 1
 
